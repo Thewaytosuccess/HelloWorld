@@ -1,0 +1,8 @@
+/Users/xhzy/test/flink-demo/src/main/java/flink/WordCountByTextFile.java
+/Users/xhzy/test/flink-demo/src/main/java/flink/KafkaJob.java
+/Users/xhzy/test/flink-demo/src/main/java/flink/BatchJob.java
+/Users/xhzy/test/flink-demo/src/main/java/flink/WordCountJob.java
+/Users/xhzy/test/flink-demo/src/main/java/flink/SocketJob.java
+/Users/xhzy/test/flink-demo/src/main/java/flink/WordCountBySQL.java
+/Users/xhzy/test/flink-demo/src/main/java/flink/WikipediaAnalysisJob.java
+/Users/xhzy/test/flink-demo/src/main/java/hadoop/WordCountJob.java
