@@ -45,7 +45,7 @@ public class BatchJob {
 				.readTextFile("/Users/xhzy/test/flink-demo/src/main/resources/score.csv")
 				.map(new MapFunction<String, PlayerScore>() {
 					@Override
-					public PlayerScore map(String s) throws Exception {
+					public PlayerScore map(String s) {
 						String[] split = s.split(",");
 						return new PlayerScore(split[0],split[1],Float.valueOf(split[2]));
 					}
